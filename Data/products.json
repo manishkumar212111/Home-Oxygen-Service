@@ -1,0 +1,196 @@
+
+
+{
+    "products" : [{
+        "id" : 1,
+        "images" : "/static/images/products.jpg",
+        "title" : "this is title1",
+        "description" : "",
+        "units_sold" : "30,000+",
+        "flow" : "1-5",
+        "battery" : "Up to 10 hrs",
+        "overView" : {
+            "title" : "Lightweight and Quiet",
+            "description" : "<p>The Inogen One G4 is one of the smallest, lightest and quietest portable oxygen concentrators available today.</p><p>As one of the lightest portable oxygen concentrators on the market, the Inogen One G4 provides your patients with the mobility they need to maintain their current lifestyle. Weighing in at less than three pounds, this POC is designed to provide your oxygen patients with limitless freedom to go about their daily activities.</p>"
+        },
+        "downloadable_content" : {
+            "title" : "",
+            "link" : "",
+            "image" : "../static/images/products.jpg",
+            "description" : "<p>This is text for download content<p>",
+            "download_button_text": "Download sheets"          
+        },
+        "specifications" : {
+            "title" : "Product Specifications",
+            "image" : "../static/images/products.jpg",
+            "specifications" : [
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"}
+            ]
+        },
+        "advantages" : {
+            "title" : "Advantages",
+            "advantages" : [
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"}
+            ]
+        },
+        "resources" : {
+            "title" : "Resources",
+            "resources" : [
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"}
+            ]
+        }
+    },{
+        "id" : 2,
+        "images" : "/static/images/products.jpg",
+        "title" : "this is title2",
+        "description" : "",
+        "units_sold" : "30,000+",
+        "flow" : "1-5",
+        "battery" : "Up to 10 hrs",
+        "overView" : {
+            "title" : "Lightweight and Quiet",
+            "description" : "<p>The Inogen One G4 is one of the smallest, lightest and quietest portable oxygen concentrators available today.</p><p>As one of the lightest portable oxygen concentrators on the market, the Inogen One G4 provides your patients with the mobility they need to maintain their current lifestyle. Weighing in at less than three pounds, this POC is designed to provide your oxygen patients with limitless freedom to go about their daily activities.</p>"
+        },
+        "downloadable_content" : {
+            "title" : "",
+            "link" : "",
+            "image" : "../static/images/products.jpg",
+            "description" : "<p>This is text for download content<p>",
+            "download_button_text": "Download sheets"          
+        },
+        "specifications" : {
+            "title" : "Product Specifications",
+            "image" : "../static/images/products.jpg",
+            "specifications" : [
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"}
+            ]
+        },
+        "advantages" : {
+            "title" : "Advantages",
+            "advantages" : [
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"}
+            ]
+        },
+        "resources" : {
+            "title" : "Resources",
+            "resources" : [
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"}
+            ]
+        }
+    },
+    {
+        "id" : 3,
+        "images" : "/static/images/products.jpg",
+        "title" : "this is title3",
+        "description" : "",
+        "units_sold" : "30,000+",
+        "flow" : "1-5",
+        "battery" : "Up to 10 hrs",
+        "overView" : {
+            "title" : "Lightweight and Quiet",
+            "description" : "<p>The Inogen One G4 is one of the smallest, lightest and quietest portable oxygen concentrators available today.</p><p>As one of the lightest portable oxygen concentrators on the market, the Inogen One G4 provides your patients with the mobility they need to maintain their current lifestyle. Weighing in at less than three pounds, this POC is designed to provide your oxygen patients with limitless freedom to go about their daily activities.</p>"
+        },
+        "downloadable_content" : {
+            "title" : "",
+            "link" : "",
+            "image" : "../static/images/products.jpg",
+            "description" : "<p>This is text for download content<p>",
+            "download_button_text": "Download sheets"          
+        },
+        "specifications" : {
+            "title" : "Product Specifications",
+            "image" : "../static/images/products.jpg",
+            "specifications" : [
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"}
+            ]
+        },
+        "advantages" : {
+            "title" : "Advantages",
+            "advantages" : [
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"}
+            ]
+        },
+        "resources" : {
+            "title" : "Resources",
+            "resources" : [
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"}
+            ]
+        }
+    },
+    {
+        "id" : 4,
+        "images" : "/static/images/products.jpg",
+        "title" : "this is title4",
+        "description" : "",
+        "units_sold" : "30,000+",
+        "flow" : "1-5",
+        "battery" : "Up to 10 hrs",
+        "overView" : {
+            "title" : "Lightweight and Quiet",
+            "description" : "<p>The Inogen One G4 is one of the smallest, lightest and quietest portable oxygen concentrators available today.</p><p>As one of the lightest portable oxygen concentrators on the market, the Inogen One G4 provides your patients with the mobility they need to maintain their current lifestyle. Weighing in at less than three pounds, this POC is designed to provide your oxygen patients with limitless freedom to go about their daily activities.</p>"
+        },
+        "downloadable_content" : {
+            "title" : "",
+            "link" : "",
+            "image" : "../static/images/products.jpg",
+            "description" : "<p>This is text for download content<p>",
+            "download_button_text": "Download sheets"          
+        },
+        "specifications" : {
+            "title" : "Product Specifications",
+            "image" : "../static/images/products.jpg",
+            "specifications" : [
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"},
+                {"key" : "Oxygen Flow" , "value" : "This is testing"}
+            ]
+        },
+        "advantages" : {
+            "title" : "Advantages",
+            "advantages" : [
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"},
+                {"title" : "" , "description" : "This is description for advantage list"}
+            ]
+        },
+        "resources" : {
+            "title" : "Resources",
+            "resources" : [
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"},
+                {"link" : "/" , "description" : "This is description for resources"}
+            ]
+        }
+    }
+]
+}

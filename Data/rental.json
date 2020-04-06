@@ -1,0 +1,108 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "image" : "./../static/images/products.jpg",
+            "title" : "This is title",
+            "prices" : [
+                {
+                    "plan" : "short",
+                    "per_day_cost" : 1200,
+                    "minimum_rental_value" : 1000,
+                    "lock_in_period" : 12,
+                    "refundable_amount" : 1000,
+                    "shipping_fee" : 1200
+                },
+                {
+                    "plan" : "standard",
+                    "per_day_cost" : 1300,
+                    "minimum_rental_value" : 5000,
+                    "lock_in_period" : 12,
+                    "refundable_amount" : 4000,
+                    "shipping_fee" : 1200
+
+                },
+                {
+                    "plan" : "long",
+                    "per_day_cost" : 1400,
+                    "minimum_rental_value" : 10000,
+                    "lock_in_period" : 12,
+                    "refundable_amount" : 2000,
+                    "shipping_fee" : 1200
+
+                }
+            ],
+            "advantages" : [
+                "This is advantage" , 
+                "This is advantageThis is advantage",
+                "This is advantageThis is advantagev",
+                "This is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantageThis is advantageThis is advantage",
+                "This is advantage",
+                "This is advantageThis is advantageThis is advantageThis is advantage",
+                "This is advantage",
+                "This is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantage",
+                "This is advantage",
+                "This is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantage",
+                "This is advantageThis is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantage"
+            ]
+        },
+        {
+            "id" : 1,
+            "image" : "./../static/images/products.jpg",
+            "title" : "This is title",
+            "prices" : [
+                {
+                    "plan" : "short",
+                    "per_day_cost" : 1200,
+                    "minimum_rental_value" : 1000,
+                    "lock_in_period" : 12,
+                    "refundable_amount" : 1000,
+                    "shipping_fee" : 1200
+                },
+                {
+                    "plan" : "standard",
+                    "per_day_cost" : 1300,
+                    "minimum_rental_value" : 5000,
+                    "lock_in_period" : 12,
+                    "refundable_amount" : 4000,
+                    "shipping_fee" : 1200
+
+                },
+                {
+                    "plan" : "long",
+                    "per_day_cost" : 1400,
+                    "minimum_rental_value" : 10000,
+                    "lock_in_period" : 12,
+                    "refundable_amount" : 2000,
+                    "shipping_fee" : 1200
+
+                }
+            ],
+            "advantages" : [
+                "This is advantage" , 
+                "This is advantageThis is advantage",
+                "This is advantageThis is advantagev",
+                "This is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantageThis is advantageThis is advantage",
+                "This is advantage",
+                "This is advantageThis is advantageThis is advantageThis is advantage",
+                "This is advantage",
+                "This is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantage",
+                "This is advantage",
+                "This is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantage",
+                "This is advantageThis is advantageThis is advantageThis is advantage",
+                "This is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantageThis is advantage"
+            ]
+        }
+    ]
+        
+        
+}

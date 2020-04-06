@@ -1,0 +1,117 @@
+.product_page_banner {
+    width: 100%;
+    height: 200px;
+    line-height: 300px;
+    background-size: 100% 100%;
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/banner.png'); */
+    /* position: absolute; */
+    text-align: center;
+}
+
+.product_page_banner h2 {
+    color: #fff;
+    font-size: 43px;
+    position: absolute;
+    left: 65px;
+    top: 0px;
+
+}
+
+.content .table {
+    width: 100%;
+}
+
+.content .table td {
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+}
+.page-content .col-40 {
+    border-bottom-style: outset;
+    border-bottom-color: #0b3090;
+    margin-bottom: 15px;
+}
+.content .table .spec_key {
+    padding: 13px;
+    width: 40%;
+    color: #0b3090;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.content .table .spec_value {
+    width: 60%;
+    font-size: 15px;
+    
+}
+
+.content .table tr:nth-child(odd) {
+    background-color: #f8f8f8;
+}
+
+.advantages ul {
+    margin-left: -31px;
+    margin-right: 5px;
+}
+.advantages ul li {
+    margin: 0; 
+    padding: 15px 0px 15px 9px;
+    font-size: 16px;
+    background: rgba(126,145,185,0.1);
+    border-radius: 10px;
+ }
+
+ .resources a {
+    font-size: 15px;
+ }
+ 
+ .resources{
+    padding: 4px 0px 8px 9px;
+    font-size: 17px;
+ }
+
+ 
+
+ .advantages ul li+li {
+    margin-top: 10px;
+  }
+
+@media only screen and (min-width: 900px) { 
+    .product_page_banner {
+        height: 325px;
+    }
+    
+    .product_page_banner h2 {
+        left: 33%;
+        top: 37px;
+    }
+
+    .page-content p {
+        margin: 32px;
+    }
+
+    .page-content .button {
+        width: 37%;
+        margin: 5% 0% 0% 26%;
+    }
+    .page-content .col-40 {
+        border-right-style: groove;
+        border-right-color: #0b3090;
+        margin: 15px;
+        border-bottom-style: none;
+    }
+
+    .advantages ul {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .col .col-sm-70 {
+        width: 50%;
+    }
+
+    .resources-desc {
+        width: 70%;
+        margin-left: 25%;
+    }
+}

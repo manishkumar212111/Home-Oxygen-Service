@@ -1,0 +1,299 @@
+.shadow {
+    box-shadow: 0 70px 70px 0 rgba(0,0,0,0.1), 0 20px 30px 0 rgba(0,0,0,0.05) , 0 20px 30px 0 rgba(0,0,0,0.05) , 0 20px 30px 0 rgba(0,0,0,0.05);
+    /* text-align: center; */
+    margin-top:20px;
+    /* margin-bottom: 20px; */
+    background: #fff;
+}
+.center {
+    text-align: center;
+}
+.marg-l-30 {
+    margin-left: 30px;
+}
+
+.padding-25 {
+    padding:25px;
+}
+.hide {
+    display: none;
+}
+img, video {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+
+.row {
+    display: inline-flex;
+    width: 100%;
+}
+
+.col {
+    display: inline-flex;
+    width: 100%;
+}
+.row .col-25 {
+    width: 25%;
+}
+
+.row .col-50 {
+    width: 50%;
+}
+
+.row .col-40 {
+    width: 40%;
+}
+
+.row .col-60 {
+    width: 60%;
+}
+
+.row .col-100 {
+    width: 100%;
+}
+.row .col-33 {
+    width: 33%;
+}
+
+.col-7 {
+    width: 58.33333333%;
+}
+
+.col-5 {
+    width: 42.33333333%;
+}
+
+.col-sm-70 {
+    width: 70%;
+}
+
+.col-sm-30 {
+    width: 30%;
+}
+
+h2 , h3 {
+    color: #0b3090;
+}
+
+ul li {
+    list-style: none;
+}
+.button {
+    display: block;
+    padding: 4px;
+    background-color: #0b3090;
+    border-radius: 7px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 23px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.btnFullWidth {
+    
+    height: 44px;
+    width: 315;  
+}
+
+.page-content {
+
+}
+
+.page-content h2 {
+    text-align: center;
+}
+
+.page-content p {
+    margin:8px
+}
+
+.page-content .button {
+    width: 90%;
+    margin: 5%;
+}
+
+.sticky_footer {
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+ }
+ .sticky_footer div {
+     display: inline-flex;
+ }
+ .sticky_footer .call {
+    padding: 10px !important;
+ }
+ .sticky_footer .button {
+    width: max-content;
+    background-color: white;
+    color: #0b3090;
+    border-color: #0b3090;
+    font-size: 20px;
+    padding: 6px;
+    border-style: groove;
+    margin: 2px;
+ }
+
+ .sticky_footer .button:hover {
+    
+    background-color: #0b3090;
+    color:white
+ }
+
+ .table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+.table th {
+    border-color: #e1e7ec;
+}
+.tab-content {
+    padding: 24px;
+    border-right: 1px solid #e1e7ec;
+    border-bottom: 1px solid #e1e7ec;
+    border-left: 1px solid #e1e7ec;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    overflow: hidden;
+}
+.table th, .table td {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #e9ecef;
+}
+
+.table tr:last-child{
+    border-bottom: 1px solid #e9ecef;
+}
+@media only screen and (max-width: 700px) { 
+    .shadow{
+        margin-top: 12px;
+    }
+
+    .padding-25 {
+        padding:12px;
+    }
+
+    .btnFullWidth {
+        width: 100%;  
+    }
+    .row {
+        display: block;
+        width: 100%;
+        padding: 1px;
+    }
+
+    .col-25, .col-50, .col-100, .col-40, .col-60, .col-33 {
+        width: 100% !important;
+    }
+}
+
+.dropbtn {
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 204px;
+    margin-top: 21px;
+  }
+  
+  
+  /* The search field */
+  #myInput {
+    box-sizing: border-box;
+    background-image: url('searchicon.png');
+    background-position: 14px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 20px 12px 45px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* The search field when it gets focus/clicked on */
+  #myInput:focus {outline: 3px solid #ddd;}
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f6f6f6;
+    min-width: 230px;
+    border: 1px solid #ddd;
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content span {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: initial;
+    cursor: pointer;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content span:hover {background-color: #f1f1f1}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;}
+
+
+  /* // accordian */
+  .accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+  }
+  
+  .active, .accordion:hover {
+    background-color: #ccc;
+  }
+  
+  .accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .accordion .active:after {
+    content: "\2212";
+  }
+  
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+
+
